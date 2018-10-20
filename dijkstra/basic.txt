@@ -7,7 +7,7 @@ Dijkstra
 A  — D — F —  H               [10, F](3)         Therefore our shorter route is [10, F](3) 
 6 \ 5  3   2 / 1              [10, G](4)
      B — E — G 
-         1      2
+       1   2
 
 Initial node
 =========
